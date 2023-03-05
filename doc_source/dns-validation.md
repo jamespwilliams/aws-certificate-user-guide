@@ -38,7 +38,7 @@ _3639ac514e785e898d2646601fa951d5.example.com
 is representative of a resulting generated **Record Name**\. The associated **Record Value** might be
 
 ```
-_98d2646601fa951d53639ac514e785e8.acm-validation.aws.
+_98d2646601fa951d53639ac514e785e8.acm-validations.aws.
 ```
 
 for the same record\.
